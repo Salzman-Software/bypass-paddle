@@ -6,3 +6,5 @@ The two shell scripts check that the application contains Paddle and if so injec
 ```
 "Inject fake paddle into Only One App.sh" "/Applications/YourApp.app"
 ```
+
+I am not responsible for how you use this framework. This is meant to be used for testing apps that you are developing that rely on the paddle payment system. **Using this on paid apps you don't own is piracy and is against the law!**
